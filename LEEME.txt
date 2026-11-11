@@ -1,0 +1,42 @@
+BALANCE ADMINISTRATIVO – SITIO WEB
+==================================
+
+ESTRUCTURA
+- index.html: página principal.
+- blog.html: índice del blog.
+- blog/: una página HTML independiente por cada artículo.
+- assets/logo-balance-administrativo.jpg: logotipo de la empresa.
+
+ARTÍCULOS DEL BLOG
+- blog/registro-pyme.html
+- blog/errores-contables.html
+- blog/flujo-de-caja.html
+- blog/obligaciones-tributarias.html
+- blog/organizar-documentos.html
+- blog/planificar-finanzas.html
+
+CÓMO PROBAR LOCALMENTE
+1. Extrae el ZIP completo.
+2. No cambies la estructura de carpetas.
+3. Abre index.html en Chrome.
+4. En móvil, toca el botón de tres líneas para desplegar el menú.
+5. Abre Blog; cada fotografía, título y enlace de lectura lleva al artículo correspondiente.
+
+CÓMO SUBIR A GITHUB PAGES
+Sube el CONTENIDO de esta carpeta a la raíz de la rama que GitHub Pages publica:
+index.html, blog.html, las carpetas blog/ y assets/.
+No subas la carpeta externa contenedora. Conserva las rutas relativas.
+
+CORREO DE COTIZACIONES
+El botón de correo genera un borrador dirigido a info@balanceadministrativo.com mediante mailto.
+La persona debe revisar y enviar el mensaje desde su aplicación de correo. GitHub Pages no procesa ni envía correos por sí solo; para un formulario de envío automático se necesita un servicio de formularios o un backend.
+
+WHATSAPP
+Número configurado: +506 6111-9094.
+
+IMÁGENES
+Las fotografías ilustrativas de servicios y artículos se cargan desde Unsplash por Internet.
+Los artículos incluyen referencias institucionales; revisa requisitos y fechas vigentes en las páginas oficiales.
+
+DOMINIO
+El paquete no registra el dominio ni configura DNS.
